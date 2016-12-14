@@ -1,6 +1,6 @@
 # Seneca node-cron server
 
-Cron server enabled by Seneca. Expose the port 4000 from container
+Expose the port 4000 from container.
 
 | Variables | Description | Default |
 |-----------|-------------|---------|
