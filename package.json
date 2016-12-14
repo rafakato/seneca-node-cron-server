@@ -1,0 +1,25 @@
+{
+  "name": "seneca-node-cron-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafakato/seneca-node-cron-server.git"
+  },
+  "keywords": [],
+  "author": "Rafael Kato <rafael@kato.io> (https://github.com/rafakato)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafakato/seneca-node-cron-server/issues"
+  },
+  "homepage": "https://github.com/rafakato/seneca-node-cron-server#readme",
+  "dependencies": {
+    "seneca": "^3.2.2",
+    "seneca-node-cron": "0.0.2",
+    "seneca-transport": "^2.1.0"
+  }
+}
